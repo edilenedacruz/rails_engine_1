@@ -1,6 +1,6 @@
 # Rails Engine
 
-[Project guidelines] ](http://backend.turing.io/module3/projects/rails_engine)
+[Project guidelines](http://backend.turing.io/module3/projects/rails_engine)
 
 ###Set up instructions
 
